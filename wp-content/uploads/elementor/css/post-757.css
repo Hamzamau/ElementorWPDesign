@@ -1,0 +1,9 @@
+.elementor-757 .elementor-element.elementor-element-73bc906{--display:flex;--min-height:128px;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );line-height:var( --e-global-typography-primary-line-height );color:var( --e-global-color-primary );}.elementor-757 .elementor-element.elementor-element-30fe7f0{text-align:center;}.elementor-757 .elementor-element.elementor-element-30fe7f0 .elementor-heading-title{font-family:"Lazare Grotesk Trial", Sans-serif;font-size:64px;font-weight:700;line-height:72px;color:var( --e-global-color-text );}:root{--page-title-display:none;}@media(min-width:768px){.elementor-757 .elementor-element.elementor-element-73bc906{--content-width:881px;}}@media(max-width:1024px){.elementor-widget-heading .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}}@media(max-width:767px){.elementor-widget-heading .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Lazare Grotesk Trial';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://localhost/wordpress2/wp-content/uploads/2025/01/AnyConv.com__LazareGroteskTrial-Light-BF647806db1a1e7.woff2') format('woff2'),
+		url('http://localhost/wordpress2/wp-content/uploads/2025/01/LazareGroteskTrial-Light-BF647806db1a1e7.woff') format('woff');
+}
+/* End Custom Fonts CSS */
